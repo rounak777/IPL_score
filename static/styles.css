@@ -252,3 +252,11 @@ body{
 .gif1{
 	width: 40%;
 }
+
+
+.allinone {
+	height: 230px;
+	width: 500px;
+	display: block;
+	margin: 0 auto;
+}

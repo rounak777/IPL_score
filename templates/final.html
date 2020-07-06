@@ -10,8 +10,8 @@
         <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap" rel="stylesheet">
     </head>
 
-    <body>
-
+    <body style="background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%) ;    background-attachment: fixed;
+    background-size: cover;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
         <!-- Website Title -->
     	<div class="container">
             <h2 class='container-heading'><span class='heading_first'><b>Indian Premier League</b> Score Predictor </span></h2>
@@ -117,7 +117,10 @@
             </div>
         </div>
 
-	<img src="{{ url_for('static', filename='final.jpg') }}" alt="." width="200" height="80">
+	<img src="{{ url_for('static', filename='final.jpg') }}" alt="." width="200" height="80" class="allinone" style="height: 230px;
+    width: 500px;
+    display: block;
+    margin: 0 auto;">
 
         <!-- Footer -->
        <div class='footer'>
