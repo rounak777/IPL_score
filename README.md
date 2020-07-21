@@ -1,4 +1,6 @@
-# IPL First Innings Score Prediction - Deployment
+# IPL First Innings Score Prediction
+
+![ipl](https://user-images.githubusercontent.com/41979266/88105775-16830280-cbc2-11ea-9892-a1a26aa46aaf.jpg)
 
 • This repository consists of files required to deploy a ___Machine Learning Web App___ created with ___Flask___ on ___Heroku___ platform.
 
